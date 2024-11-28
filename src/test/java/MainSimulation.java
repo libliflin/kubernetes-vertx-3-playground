@@ -12,7 +12,7 @@ public class MainSimulation extends Simulation {
     );
 
     HttpProtocolBuilder httpProtocol =
-        http.baseUrl("http://localhost:8888")
+        http.baseUrl("http://host.com")
             .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
             .acceptLanguageHeader("en-US,en;q=0.5")
             .acceptEncodingHeader("gzip, deflate")
@@ -25,7 +25,7 @@ public class MainSimulation extends Simulation {
     {
         setUp(
             users.injectClosed(
-                constantConcurrentUsers(1).during(200))
+                constantConcurrentUsers(10).during(200))
         ).protocols(httpProtocol);
     }
 }
