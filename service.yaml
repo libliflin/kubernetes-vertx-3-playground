@@ -19,8 +19,8 @@ spec:
         imagePullPolicy: Never
         resources:
           limits:
-            memory: "128Mi"
-            cpu: "500m"
+            memory: "64Mi"
+            cpu: "40m"
         ports:
           - name: http-8888
             containerPort: 8888
@@ -30,7 +30,7 @@ spec:
             path: /
             port: 7999
             scheme: HTTP
-          initialDelaySeconds: 90
+          initialDelaySeconds: 10
           timeoutSeconds: 2
           periodSeconds: 20
           successThreshold: 1
@@ -40,7 +40,7 @@ spec:
             path: /
             port: 7999
             scheme: HTTP
-          initialDelaySeconds: 90
+          initialDelaySeconds: 10
           timeoutSeconds: 2
           periodSeconds: 20
           successThreshold: 1
@@ -80,14 +80,14 @@ spec:
   selector:
     app: myapp
     name: myapp
-  type: ClusterIP
+  type: NodePort
   sessionAffinity: None
   ports:
     - name: http-8888
       protocol: TCP
       port: 8888
       targetPort: 8888
-  internalTrafficPolicy: Cluster
+      nodePort: 30171
 
 ---
 apiVersion: networking.k8s.io/v1
@@ -99,7 +99,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: localhost
+  - host: host.com
     http:
       paths:
       - pathType: Prefix
