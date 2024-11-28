@@ -1,5 +1,4 @@
 import io.vertx.core.Vertx;
-import io.vertx.core.net.SocketAddress;
 
 public class Main {
     public static void main(String[] args) {
