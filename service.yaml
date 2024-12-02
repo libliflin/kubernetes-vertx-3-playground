@@ -15,32 +15,32 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: myapp-2
+        image: myapp-21
         imagePullPolicy: Never
         resources:
           limits:
             memory: "64Mi"
-            cpu: "40m"
+            cpu: "100m"
         ports:
           - name: http-8888
             containerPort: 8888
             protocol: TCP
         livenessProbe:
           httpGet:
-            path: /
+            path: /livenessProbe
             port: 7999
             scheme: HTTP
-          initialDelaySeconds: 10
+          initialDelaySeconds: 20
           timeoutSeconds: 2
           periodSeconds: 20
           successThreshold: 1
           failureThreshold: 3
         readinessProbe:
           httpGet:
-            path: /
+            path: /readinessProbe
             port: 7999
             scheme: HTTP
-          initialDelaySeconds: 10
+          initialDelaySeconds: 20
           timeoutSeconds: 2
           periodSeconds: 20
           successThreshold: 1
@@ -52,25 +52,26 @@ spec:
       maxUnavailable: 0
       maxSurge: 100%
   revisionHistoryLimit: 10
----
-apiVersion: autoscaling/v2
-kind: HorizontalPodAutoscaler
-metadata:
-  name: myapp
-spec:
-  scaleTargetRef:
-    apiVersion: apps/v1
-    kind: Deployment
-    name: myapp
-  minReplicas: 6
-  maxReplicas: 6
-  metrics:
-  - type: Resource
-    resource:
-      name: cpu
-      target:
-        type: Utilization
-        averageUtilization: 50
+# hpa will auto scale not allowing full control. 
+# ---
+# apiVersion: autoscaling/v2
+# kind: HorizontalPodAutoscaler
+# metadata:
+#   name: myapp
+# spec:
+#   scaleTargetRef:
+#     apiVersion: apps/v1
+#     kind: Deployment
+#     name: myapp
+#   minReplicas: 1
+#   maxReplicas: 6
+#   metrics:
+#   - type: Resource
+#     resource:
+#       name: cpu
+#       target:
+#         type: Utilization
+#         averageUtilization: 50
 ---
 apiVersion: v1
 kind: Service
@@ -88,7 +89,6 @@ spec:
       port: 8888
       targetPort: 8888
       nodePort: 30171
-
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress

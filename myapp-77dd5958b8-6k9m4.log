@@ -1,0 +1,341 @@
+default     0s          Normal    SuccessfulCreate               replicaset/myapp-77dd5958b8     Created pod: myapp-77dd5958b8-6k9m4
+default     0s          Normal    Scheduled                      pod/myapp-77dd5958b8-6k9m4      Successfully assigned default/myapp-77dd5958b8-6k9m4 to minikube
+default     0s          Normal    Pulled                         pod/myapp-77dd5958b8-6k9m4      Container image "myapp-21" already present on machine
+default     0s          Normal    Created                        pod/myapp-77dd5958b8-6k9m4      Created container myapp
+default     0s          Normal    Started                        pod/myapp-77dd5958b8-6k9m4      Started container myapp
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:13.726374776Z myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:31.721148791Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:31.724726325Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:51.324806487Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:51.329058228Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:11.317302602Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:11.332015264Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:31.308479019Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:31.310265518Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:51.313020488Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:51.315511695Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:11.312329126Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:11.318951873Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:31.309813210Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:31.309826376Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:51.307146306Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:51.308446347Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:11.309513063Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:11.309532646Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:31.311824339Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:31.323421916Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:51.325726236Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:51.327765526Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:11.316796960Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:11.323659539Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:31.312932310Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:31.315725975Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:51.306783437Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:51.308067602Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:11.325284383Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:11.330141588Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:31.311137372Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:31.315134869Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:51.317592512Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:51.319307886Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:11.308666429Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:11.308684679Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:31.320401905Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:31.326290151Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:51.316765150Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:51.319632481Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:11.319104622Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:11.328087657Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:31.311549682Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:31.316343636Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:51.307348167Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:51.307366250Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:11.307028715Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:11.308555756Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:31.306433344Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:31.308244217Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:51.306613732Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:51.307012190Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:11.308803265Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:11.308812224Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:29.121385528Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:31 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:32.220689315Z Dec 02, 2024 8:46:31 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2736 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:32.220711357Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2736 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:32.853422918Z Dec 02, 2024 8:46:32 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:32 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3736 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:32.854238209Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3736 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:33.212350724Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:33.219849967Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:35.852766370Z Dec 02, 2024 8:46:35 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:35 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:35.852849620Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2632 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2632 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:36.853822976Z Dec 02, 2024 8:46:36 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:36.854032767Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3632 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:36 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3632 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:37.219894691Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:37.223158604Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:39 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:39.852319711Z Dec 02, 2024 8:46:39 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2631 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:39.852450669Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2631 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:40 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:40.853224898Z Dec 02, 2024 8:46:40 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3630 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:40.853347148Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3630 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:41.222326359Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:41.226643480Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:43.853790373Z Dec 02, 2024 8:46:43 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:43 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:43.854378997Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:44.854951057Z Dec 02, 2024 8:46:44 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:44 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:44.857311929Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:45.225962265Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:45.226625056Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:47.853657441Z Dec 02, 2024 8:46:47 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:47 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:47.854604357Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2627 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2627 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:48 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3627 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:48.854634456Z Dec 02, 2024 8:46:48 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:48.855404663Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3627 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:49.225833079Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:49.227446786Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:51.853500249Z Dec 02, 2024 8:46:51 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:51.853559957Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:51 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:52 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:52.853849053Z Dec 02, 2024 8:46:52 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:52.854336386Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:53.228124256Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:53.229924713Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:55 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:55.854464836Z Dec 02, 2024 8:46:55 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2624 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:55.854534836Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2624 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:56.855894844Z Dec 02, 2024 8:46:56 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:56.856003094Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:56 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:57.230881587Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:57.231288004Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:46:59 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:59.856788119Z Dec 02, 2024 8:46:59 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:59.856995619Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:00.857620417Z Dec 02, 2024 8:47:00 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:00 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:00.857691000Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3626 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3626 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.235418698Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.236646697Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.237016280Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.237025530Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:03 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:03.860213765Z Dec 02, 2024 8:47:03 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:03.860268473Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:04.861744560Z Dec 02, 2024 8:47:04 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:04 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:04.862556267Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3625 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:05.234987552Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:05.236343926Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:07.864435691Z Dec 02, 2024 8:47:07 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:07 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:07.864519691Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2628 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:08.866014692Z Dec 02, 2024 8:47:08 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:08 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:08.866462233Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3629 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3629 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:09.258876332Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:09.259169373Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:11 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:11.867294150Z Dec 02, 2024 8:47:11 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2619 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:11.867322067Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 2619 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:12.870334938Z Dec 02, 2024 8:47:12 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:12.870450604Z WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3621 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] Dec 02, 2024 8:47:12 PM io.vertx.core.impl.BlockedThreadChecker
+[pod/myapp-77dd5958b8-6k9m4/myapp] WARNING: Thread Thread[#20,vert.x-eventloop-thread-1,5,main]=Thread[#20,vert.x-eventloop-thread-1,5,main] has been blocked for 3621 ms, time limit is 2000 ms
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.255335543Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.259168539Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Normal    Killing                        pod/myapp-77dd5958b8-6k9m4      Container myapp failed liveness probe, will be restarted
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.700045759Z myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Initating shutdown shutdownSleep=35000, shutdownCode=404,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Initating shutdown shutdownSleep=35000, shutdownCode=404,
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:17.263906232Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:17.275704637Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:21.272295827Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:21.272834160Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:25.276336899Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:25.276512607Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282348231Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282470898Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282488648Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282507648Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:33.281901558Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:33.282094183Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:37.279316871Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:37.283696654Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.287318936Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.288622225Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.289295557Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.290217222Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.291174553Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.292672384Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Finish shutdown shutdownSleep=35000, shutdownCode=404,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:48.698737210Z myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Finish shutdown shutdownSleep=35000, shutdownCode=404,
+default     0s          Normal    Pulled                         pod/myapp-77dd5958b8-6k9m4      Container image "myapp-21" already present on machine
+default     0s          Normal    Created                        pod/myapp-77dd5958b8-6k9m4      Created container myapp
+default     0s          Normal    Started                        pod/myapp-77dd5958b8-6k9m4      Started container myapp
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:51.214581674Z myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:11.525597252Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:11.620873149Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:31.311723817Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:31.315187435Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:51.314543227Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:51.316375557Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:11.306689908Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:11.307852489Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:31.308188176Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:31.310226089Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:51.307036578Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:51.307077328Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:11.306689464Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:11.307571463Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:31.307047026Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:31.307057610Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:51.307975874Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:51.311864658Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:11.308470533Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:11.308490533Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:31.312105651Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:31.313227066Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:51.315026802Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:51.315052469Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:11.313014480Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:11.323105921Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:31.310220205Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:31.311542203Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:51.313932036Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:51.319063570Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,

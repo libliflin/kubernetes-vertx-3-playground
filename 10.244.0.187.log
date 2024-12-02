@@ -1,0 +1,292 @@
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:13.726374776Z myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:31.721148791Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:31.724726325Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:51.324806487Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:37:51.329058228Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:11.317302602Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:11.332015264Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:31.308479019Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:31.310265518Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:51.313020488Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:38:51.315511695Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:11.312329126Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:11.318951873Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:31.309813210Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:31.309826376Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:51.307146306Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:39:51.308446347Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:11.309513063Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:11.309532646Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:31.311824339Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:31.323421916Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:51.325726236Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:40:51.327765526Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:11.316796960Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:11.323659539Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:31.312932310Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:31.315725975Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:51.306783437Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:41:51.308067602Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:11.325284383Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:11.330141588Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:31.311137372Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:31.315134869Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:51.317592512Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:42:51.319307886Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:11.308666429Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:11.308684679Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:31.320401905Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:31.326290151Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:51.316765150Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:43:51.319632481Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:11.319104622Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:11.328087657Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:31.311549682Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:31.316343636Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:51.307348167Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:44:51.307366250Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:11.307028715Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:11.308555756Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:31.306433344Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:31.308244217Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:51.306613732Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:45:51.307012190Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:11.308803265Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:11.308812224Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:29.121385528Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:33.212350724Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=6c8c2654-19fa-44db-b102-a5cc5119b494,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:33.214702722Z 192.168.105.1 - - [02/Dec/2024:20:46:33 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=6c8c2654-19fa-44db-b102-a5cc5119b494 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 4.170 [default-myapp-8888] [] 10.244.0.187:8888 16 4.170 200 36b63fca887dec399cd4b9cd864c61c7
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:33 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=6c8c2654-19fa-44db-b102-a5cc5119b494 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 4.170 [default-myapp-8888] [] 10.244.0.187:8888 16 4.170 200 36b63fca887dec399cd4b9cd864c61c7
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:33.219849967Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:37.219894691Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:37 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 8.150 [default-myapp-8888] [] 10.244.0.187:8888 16 8.149 200 4adde08f3cc2df2fa804a2cb3808b85c
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:37.220722357Z 192.168.105.1 - - [02/Dec/2024:20:46:37 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=c6dd8bb3-4be8-425a-8182-f9f2ec6f61d9 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 8.150 [default-myapp-8888] [] 10.244.0.187:8888 16 8.149 200 4adde08f3cc2df2fa804a2cb3808b85c
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:37.223158604Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:41.222326359Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:41.224296149Z 192.168.105.1 - - [02/Dec/2024:20:46:41 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 12.152 [default-myapp-8888] [] 10.244.0.187:8888 16 12.152 200 af8750e575a7a7b033198c90152fad69
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:41 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=f69d7e6c-3cca-4098-b49c-2b2dbddb34d1 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 12.152 [default-myapp-8888] [] 10.244.0.187:8888 16 12.152 200 af8750e575a7a7b033198c90152fad69
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:41.226643480Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:45.225957140Z 192.168.105.1 - - [02/Dec/2024:20:46:45 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 16.147 [default-myapp-8888] [] 10.244.0.187:8888 16 16.147 200 4a59be2fcebcf7dee2aafe29910fe496
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:45 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 16.147 [default-myapp-8888] [] 10.244.0.187:8888 16 16.147 200 4a59be2fcebcf7dee2aafe29910fe496
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:45.225962265Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:45.226625056Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=e64dbc15-f8b0-44ae-aca5-58cf79937b5d,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:49.225833079Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:49 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 20.149 [default-myapp-8888] [] 10.244.0.187:8888 16 20.150 200 6a75bd5b25120cfb5f3ddec0ffaa992f
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:49.227899203Z 192.168.105.1 - - [02/Dec/2024:20:46:49 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=9619b95c-c7c5-4f51-9435-88bb6bcebf4c HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 20.149 [default-myapp-8888] [] 10.244.0.187:8888 16 20.150 200 6a75bd5b25120cfb5f3ddec0ffaa992f
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:49.227446786Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:53.228124256Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=4464c2b0-adc3-4e66-93ae-acd39adb951e,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:53.229954838Z 192.168.105.1 - - [02/Dec/2024:20:46:53 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=4464c2b0-adc3-4e66-93ae-acd39adb951e HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.150 [default-myapp-8888] [] 10.244.0.187:8888 16 24.149 200 a099012237a415d1338cbd8befc41176
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:53 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=4464c2b0-adc3-4e66-93ae-acd39adb951e HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.150 [default-myapp-8888] [] 10.244.0.187:8888 16 24.149 200 a099012237a415d1338cbd8befc41176
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:53.229924713Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:57.230881587Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=0119ea15-cd65-4018-9b89-073304ffbadc,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:46:57 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=0119ea15-cd65-4018-9b89-073304ffbadc HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.149 [default-myapp-8888] [] 10.244.0.187:8888 16 28.149 200 f5d80d1eadd95e42e3df8383a2f7a50b
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:46:57.231288004Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:46:57.231315795Z 192.168.105.1 - - [02/Dec/2024:20:46:57 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=0119ea15-cd65-4018-9b89-073304ffbadc HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.149 [default-myapp-8888] [] 10.244.0.187:8888 16 28.149 200 f5d80d1eadd95e42e3df8383a2f7a50b
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:01 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 32.150 [default-myapp-8888] [] 10.244.0.187:8888 16 32.150 200 a09b057490abaac8f64fb4fbf81875c2
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:01.232157618Z 192.168.105.1 - - [02/Dec/2024:20:47:01 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 32.150 [default-myapp-8888] [] 10.244.0.187:8888 16 32.150 200 a09b057490abaac8f64fb4fbf81875c2
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.235418698Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=92ae4e15-1fa3-4ab9-b737-2968d7ef111f,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.236646697Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.237016280Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:01.237025530Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:05.234987552Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2da4d70e-681f-420b-81e4-8f864d306cee,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:05.235385052Z 192.168.105.1 - - [02/Dec/2024:20:47:05 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=2da4d70e-681f-420b-81e4-8f864d306cee HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.005 [default-myapp-8888] [] 10.244.0.187:8888 16 24.005 200 f105c695272d5787b8c8c39a0ecaacb2
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:05 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=2da4d70e-681f-420b-81e4-8f864d306cee HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.005 [default-myapp-8888] [] 10.244.0.187:8888 16 24.005 200 f105c695272d5787b8c8c39a0ecaacb2
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:05.236343926Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:09.258876332Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=cf3ee461-f30e-4023-b78d-49b1b9954952,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:09.259169373Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:09 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=cf3ee461-f30e-4023-b78d-49b1b9954952 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.018 [default-myapp-8888] [] 10.244.0.187:8888 16 28.018 200 5a0a54535979562856acba920470b0ff
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:09.255627835Z 192.168.105.1 - - [02/Dec/2024:20:47:09 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=cf3ee461-f30e-4023-b78d-49b1b9954952 HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.018 [default-myapp-8888] [] 10.244.0.187:8888 16 28.018 200 5a0a54535979562856acba920470b0ff
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.255335543Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:13 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.024 [default-myapp-8888] [] 10.244.0.187:8888 16 28.024 200 bdb59d7e943fd41601a666e6c41d8c4d
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:13.255898917Z 192.168.105.1 - - [02/Dec/2024:20:47:13 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=eb482117-e6c8-4e62-bbdd-1bcc1d2559ce HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 28.024 [default-myapp-8888] [] 10.244.0.187:8888 16 28.024 200 bdb59d7e943fd41601a666e6c41d8c4d
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.259168539Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Liveness probe failed: Get "http://10.244.0.187:7999/livenessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:13.700045759Z myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Initating shutdown shutdownSleep=35000, shutdownCode=404,
+
+
+
+initial shutdown 2024-12-02T20:47:13
+last request 2024-12-02T20:47:37.283696654Z
+
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Initating shutdown shutdownSleep=35000, shutdownCode=404,
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:17.263906232Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=200, requestSleep=4000, id=2eb07ef2-0428-48d9-817a-85b38ffa3fae,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:17 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=2eb07ef2-0428-48d9-817a-85b38ffa3fae HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.094 [default-myapp-8888] [] 10.244.0.187:8888 16 24.094 200 5df38df7855355915f1299dc8d9260f1
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:17.275704637Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:17.274066389Z 192.168.105.1 - - [02/Dec/2024:20:47:17 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=2eb07ef2-0428-48d9-817a-85b38ffa3fae HTTP/1.1" 200 16 "-" "Gatling/3.8.0" 333 24.094 [default-myapp-8888] [] 10.244.0.187:8888 16 24.094 200 5df38df7855355915f1299dc8d9260f1
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:21.272295827Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=6400396a-957d-4a35-9aff-eee575b00ee0,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:21.272834160Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:21 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=6400396a-957d-4a35-9aff-eee575b00ee0 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.036 [default-myapp-8888] [] 10.244.0.187:8888 16 28.036 404 d6ad4bd58b64d86f5b671ce4bf7dbede
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:21.274631033Z 192.168.105.1 - - [02/Dec/2024:20:47:21 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=6400396a-957d-4a35-9aff-eee575b00ee0 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.036 [default-myapp-8888] [] 10.244.0.187:8888 16 28.036 404 d6ad4bd58b64d86f5b671ce4bf7dbede
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:25.276336899Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:25.276512607Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=80977280-dcbf-42c1-8587-e9a9243e03dd,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:25 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=80977280-dcbf-42c1-8587-e9a9243e03dd HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.037 [default-myapp-8888] [] 10.244.0.187:8888 16 28.038 404 78fb6515474135e636b12228cb8fc359
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:25.276271483Z 192.168.105.1 - - [02/Dec/2024:20:47:25 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=80977280-dcbf-42c1-8587-e9a9243e03dd HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.037 [default-myapp-8888] [] 10.244.0.187:8888 16 28.038 404 78fb6515474135e636b12228cb8fc359
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282348231Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=3faa9099-e910-44ac-b7a6-31a775252c96,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:29 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=3faa9099-e910-44ac-b7a6-31a775252c96 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 56.053 [default-myapp-8888] [] 10.244.0.187:8888 16 56.053 404 4afe0d265ccb93558c7a6ca04764e61d
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:29.281071151Z 192.168.105.1 - - [02/Dec/2024:20:47:29 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=3faa9099-e910-44ac-b7a6-31a775252c96 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 56.053 [default-myapp-8888] [] 10.244.0.187:8888 16 56.053 404 4afe0d265ccb93558c7a6ca04764e61d
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282470898Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282488648Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:29.282507648Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:33.281901558Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296,
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:33 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.040 [default-myapp-8888] [] 10.244.0.187:8888 16 28.039 404 61e8be7380e4e7328c1e1b08e1a069a4
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:33.281851642Z 192.168.105.1 - - [02/Dec/2024:20:47:33 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=ed5752e8-30cc-41b1-9f06-b6ce7c5c4296 HTTP/1.1" 404 16 "-" "Gatling/3.8.0" 333 28.040 [default-myapp-8888] [] 10.244.0.187:8888 16 28.039 404 61e8be7380e4e7328c1e1b08e1a069a4
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:33.282094183Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be
+default     0s          Warning   Unhealthy                      pod/myapp-77dd5958b8-6k9m4      Readiness probe failed: Get "http://10.244.0.187:7999/readinessProbe": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:35.085995269Z 192.168.105.1 - - [02/Dec/2024:20:47:35 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=059b9651-08e2-4f66-a390-4e240c744a47 HTTP/1.1" 499 0 "-" "Gatling/3.8.0" 333 25.831 [default-myapp-8888] [] 10.244.0.187:8888 0 25.831 - a365a1b4f16021cc284b079444d18f58
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:35 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=059b9651-08e2-4f66-a390-4e240c744a47 HTTP/1.1" 499 0 "-" "Gatling/3.8.0" 333 25.831 [default-myapp-8888] [] 10.244.0.187:8888 0 25.831 - a365a1b4f16021cc284b079444d18f58
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 192.168.105.1 - - [02/Dec/2024:20:47:35 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=9cc9203d-146a-4635-b979-762502a6c1be HTTP/1.1" 499 0 "-" "Gatling/3.8.0" 333 25.834 [default-myapp-8888] [] 10.244.0.187:8888 0 25.835 - f45883ed0fcb99f375b13c6d878d2372
+[pod/ingress-nginx-controller-bc57996ff-6wkk7/controller] 2024-12-02T20:47:35.088788138Z 192.168.105.1 - - [02/Dec/2024:20:47:35 +0000] "GET /?requestSleep=4000&shutdownSleep=35000&shutdownCode=404&livenessCode=200&executeBlocking=false&id=9cc9203d-146a-4635-b979-762502a6c1be HTTP/1.1" 499 0 "-" "Gatling/3.8.0" 333 25.834 [default-myapp-8888] [] 10.244.0.187:8888 0 25.835 - f45883ed0fcb99f375b13c6d878d2372
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:37.279316871Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=9cc9203d-146a-4635-b979-762502a6c1be,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:37.283696654Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 recieved request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.287318936Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 responding to request responseCode=404, requestSleep=4000, id=059b9651-08e2-4f66-a390-4e240c744a47,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.288622225Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.289295557Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.290217222Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.291174553Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:41.292672384Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Finish shutdown shutdownSleep=35000, shutdownCode=404,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:48.698737210Z myapp-77dd5958b8-6k9m4/10.244.0.187 shutdown Finish shutdown shutdownSleep=35000, shutdownCode=404,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:47:51.214581674Z myapp-77dd5958b8-6k9m4/10.244.0.187 main starting up
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:11.525597252Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:11.620873149Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:31.311723817Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:31.315187435Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:51.314543227Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:48:51.316375557Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:11.306689908Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:11.307852489Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:31.308188176Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:31.310226089Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:51.307036578Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:49:51.307077328Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:11.306689464Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:11.307571463Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:31.307047026Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:31.307057610Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:51.307975874Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:50:51.311864658Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:11.308470533Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:11.308490533Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:31.312105651Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:31.313227066Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:51.315026802Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:51:51.315052469Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:11.313014480Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:11.323105921Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:31.310220205Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:31.311542203Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:51.313932036Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:52:51.319063570Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:11.312723605Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:11.316215182Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:31.312300472Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:31.316577465Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:51.306513179Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /livenessProbe to livenessCode=200,
+[pod/myapp-77dd5958b8-6k9m4/myapp] 2024-12-02T20:53:51.308044469Z myapp-77dd5958b8-6k9m4/10.244.0.187 vert.x-eventloop-thread-1 /readinessProbe to livenessCode=200,

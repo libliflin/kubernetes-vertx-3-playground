@@ -2,14 +2,15 @@
 
 Local Setup (m* mac)
 
-    curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-arm64\n
-    sudo install minikube-darwin-arm64 /usr/local/bin/minikube\n
-    brew install qemu\n
-    brew install socket_vmnet\n
-    brew tap homebrew/services\n
-    HOMEBREW=$(which brew) && sudo ${HOMEBREW} services start socket_vmnet\n
-    minikube start --driver qemu --network socket_vmnet\n
-    minikube addons enable ingress\n
+    curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-arm64
+    sudo install minikube-darwin-arm64 /usr/local/bin/minikube
+    brew install qemu
+    brew install socket_vmnet
+    brew tap homebrew/services
+    HOMEBREW=$(which brew) && sudo ${HOMEBREW} services start socket_vmnet
+    minikube start --driver qemu --network socket_vmnet
+    minikube addons enable ingress
+    minikube addons enable metrics-server
 
 
 To build:
@@ -20,22 +21,27 @@ run locally if required:
 
     java -jar target/service-1.0-SNAPSHOT-jar-with-dependencies.jar
 
-make a new docker image:
+make a new docker image: (run `mvn clean package` first)
 
     eval $(minikube docker-env)
-    docker build . -t myapp-2 -f dockerfile
+    docker build . -t myapp-21 -f dockerfile
 
 then apply changes (name of deployment above in service.yaml)
 
     kubectl delete -f service.yaml
     kubectl apply -f service.yaml
     kubectl rollout restart deployment myapp
-    kubectl scale --replicas=3 deployment/myapp
+    kubectl scale --replicas=1 deployment/myapp
+    kubectl scale --replicas=6 deployment/myapp
 
 expose the port
     kubectl get ingress
     sudo vim /etc/hosts
     add in the ip address from the ingress and the host host.com
+
+setup logs:
+
+    ./setup-logs.sh
 
 
 check pods:
@@ -50,6 +56,23 @@ log into the pod to debug network issues if required:
 
     kubectl exec -it myapp-84f5447f85-mmhxp -- /bin/sh
     apt-get update && apt-get install -y net-tools lsof
+
+test locally 
+
+    curl host.com
+
+run gatling test to have constant traffic
+
+    mvn gating:test -Dgatling.http.requestTimeout=600000
+
+scale during gatling test:
+
+    kubectl rollout restart deployment myapp
+    kubectl scale --replicas=3 deployment/myapp
+
+pods take about 40 seconds to become "ready"
+
+    kubectl scale --replicas=6 deployment/myapp
 
 
 test results:
@@ -69,3 +92,7 @@ test results:
         2024/11/28 03:02:09 [error] 306#306: *31350 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.105.1, server: host.com, request: "GET / HTTP/1.1", upstream: "http://10.244.0.24:8888/", host: "host.com"
         2024/11/28 03:02:09 [error] 306#306: *31350 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.105.1, server: host.com, request: "GET / HTTP/1.1", upstream: "http://10.244.0.22:8888/", host: "host.com"
         192.168.105.1 - - [28/Nov/2024:03:02:09 +0000] "GET / HTTP/1.1" 502 150 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" 270 0.000 [default-myapp-8888] [] 10.244.0.23:8888, 10.244.0.24:8888, 10.244.0.22:8888 0, 0, 0 0.000, 0.000, 0.000 502, 502, 502 231285d9b34e994d85b195dc8ff832ba
+
+stop cluster
+
+    minikube stop

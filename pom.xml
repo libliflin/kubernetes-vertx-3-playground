@@ -40,7 +40,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Main</mainClass>
+                            <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
 
@@ -59,6 +59,10 @@
                 <groupId>io.gatling</groupId>
                 <artifactId>gatling-maven-plugin</artifactId>
                 <version>4.2.0</version>
+                <configuration>
+                    <simulationClass>MainSimulation</simulationClass>
+                    <resultsFolder>${project.build.directory}/gatling</resultsFolder>
+                </configuration>
                 <dependencies>
                     <dependency>
                         <groupId>org.codehaus.plexus</groupId>
